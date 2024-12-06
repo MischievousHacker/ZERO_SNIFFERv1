@@ -18,7 +18,7 @@ Batt sheild(for pluging in a 3.7v lipo into the D1 Mini)
 
 # HOW TO WIRE EVERYTHING
 
-https://github.com/MischievousHacker/ZERO_SNIFFERv1/blob/1eb2aa534f72c49deba0d88e4d1b43c73728c481/everything%20wiring.png \
+https://github.com/MischievousHacker/ZERO_SNIFFERv1/blob/1eb2aa534f72c49deba0d88e4d1b43c73728c481/everything%20wiring.png 
 
 # NOTES FROM OWNER/CREATER 
 
