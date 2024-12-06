@@ -20,6 +20,8 @@ Batt sheild(for pluging in a 3.7v lipo into the D1 Mini)
 
 https://github.com/MischievousHacker/ZERO_SNIFFERv1/blob/1eb2aa534f72c49deba0d88e4d1b43c73728c481/everything%20wiring.png 
 
+https://github.com/MischievousHacker/ZERO_SNIFFERv1/blob/main/everything%20wiring.png
+
 # NOTES FROM OWNER/CREATER 
 
 I came up with the ZSV1 randomly while i was siting in my room conteplating life and then i relized what i can make with the D1 Mini,
