@@ -19,14 +19,21 @@ Batt sheild(for pluging in a 3.7v lipo into the D1 Mini)
 # HOW TO WIRE EVERYTHING
 
 OLED
+
 3v3
+
 GND
+
 SCL D1
+
 SDA D2
 
 Buttons
+
 ok D5
+
 DWN D6
+
 UP D7
 # NOTES FROM OWNER/CREATER 
 
