@@ -29,7 +29,7 @@ Screen currentScreen = BOOT;
 int menuIndex = 0;
 
 String menuItems[] = {
-  "WiFi Scanner",
+  "Scaner",
   "Radar",
   "Settings"
 };
@@ -58,7 +58,7 @@ void drawStatusBar() {
   display.fillRect(0, 0, 128, 10, SSD1306_WHITE);
   display.setTextColor(SSD1306_BLACK);
   display.setCursor(2, 1);
-  display.print("ESP8266 AP+SCAN");
+  display.print("Zero Sniffer");
   display.setTextColor(SSD1306_WHITE);
 }
 
