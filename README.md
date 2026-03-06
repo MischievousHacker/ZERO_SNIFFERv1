@@ -38,7 +38,7 @@ UP - D7
 # NOTES FROM OWNER/CREATER 
 
 I came up with the ZSV1 randomly while i was siting in my room conteplating life and then i relized what i can make with the D1 Mini,
-a wireless wifi hacker. also im 14. GET OUT.
+a wireless wifi hacker. also im a 46 year old chud and i larp all the time and im a skid.
 
 
 # LINKS 
