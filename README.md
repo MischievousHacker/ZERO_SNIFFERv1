@@ -18,9 +18,16 @@ Batt sheild(for pluging in a 3.7v lipo into the D1 Mini)
 
 # HOW TO WIRE EVERYTHING
 
+OLED
+3v3
+GND
+SCL D1
+SDA D2
 
-
-
+Buttons
+ok D5
+DWN D6
+UP D7
 # NOTES FROM OWNER/CREATER 
 
 I came up with the ZSV1 randomly while i was siting in my room conteplating life and then i relized what i can make with the D1 Mini,
