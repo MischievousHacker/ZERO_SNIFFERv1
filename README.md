@@ -24,17 +24,17 @@ OLED
 
 GND
 
-SCL D1
+SCL - D1
 
-SDA D2
+SDA - D2
 
 Buttons
 
-ok D5
+ok - D5
 
-DWN D6
+DWN - D6
 
-UP D7
+UP - D7
 # NOTES FROM OWNER/CREATER 
 
 I came up with the ZSV1 randomly while i was siting in my room conteplating life and then i relized what i can make with the D1 Mini,
